@@ -1,0 +1,6 @@
+{
+  "name": "La Geosfera - Գեոսֆերան",
+  "description": "Ինտերակտիվ ուսումնական հավելված իսպաներենից հայերեն թարգմանությամբ (Unit 1: The Geosphere / La Geosfera / Գեոսֆերան)՝ սեղմումով թարգմանության բացմամբ, բառապաշարով և հարցուպատասխաններով։",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
